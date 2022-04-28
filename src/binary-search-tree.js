@@ -62,7 +62,6 @@ class BinarySearchTree {
       } else {
         return searchWithin(node.right, data);
       }
-       
     }
   }
 
@@ -83,7 +82,6 @@ class BinarySearchTree {
       } else {
         return findWithin(node.right, data);
       }
-       
     }
   }
 
